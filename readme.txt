@@ -1,0 +1,5 @@
+Run main to try out our main functions, including training, testing and interpretation.
+The training section is poorly optimised due to the author's low level of coding and writing too many custom functions. Training using the settings in the code can take hours. 
+If you want to check the details of the training process, you can find the corresponding .npy data records, images and completed models in the records folder.
+To verify the performance of the different models, you can find some models related to the experiment in the model folder. Since network algorithms are constantly improving, it is normal that early models may be unavailable or perform differently than documented.
+ It is worth noting that you need to check that the itime parameter is set correctly when the model is initialised (if not marked otherwise, its value must be 3 or 4)
